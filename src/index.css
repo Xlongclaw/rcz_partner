@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  outline: none;
+}
+
+input:hover {
+  outline: none;
+}
+
+body {
+  font-family: "Lexend", sans-serif;
+}
